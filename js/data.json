@@ -52,7 +52,14 @@
          {"name": "Cloud Services", "size": 1}
         ]
       },
-      {"name": "Front-End Code", "size": 1},
+      {
+        "name": "Front-End Code",
+        "children": [
+         {"name": "HTML", "size": 1},
+         {"name": "CSS", "size": 1},
+         {"name": "JavaScript", "size": 1}
+        ]
+      },
       {"name": "Integrations", "size": 1},
       {"name": "Repository Management", "size": 1},
       {"name": "Build Management", "size": 1},
