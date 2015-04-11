@@ -7,20 +7,20 @@
      {
       "name": "sales",
       "children": [
-       {"name": "Lead Generation", "size": 1},
-       {"name": "Lead Qualification", "size": 1},
-       {"name": "Pipeline Planning", "size": 1},
-       {"name": "Contracts", "size": 1},
-       {"name": "Renewals", "size": 1},
-       {"name": "Demos", "size": 1}
+       {"name": "Lead Generation", "size": 5},
+       {"name": "Lead Qualification", "size": 5},
+       {"name": "Pipeline Planning", "size": 5},
+       {"name": "Contracts", "size": 5},
+       {"name": "Renewals", "size": 5},
+       {"name": "Demos", "size": 5}
       ]
      },
      {
       "name": "marketing",
       "children": [
-       {"name": "Marketing Content", "size": 1},
-       {"name": "Marketing Website", "size": 1},
-       {"name": "Promotional Events", "size": 1}
+       {"name": "Marketing Content", "size": 5},
+       {"name": "Marketing Website", "size": 5},
+       {"name": "Promotional Events", "size": 5}
       ]
      }
     ]
@@ -60,20 +60,20 @@
          {"name": "JavaScript", "size": 1}
         ]
       },
-      {"name": "Integrations", "size": 1},
-      {"name": "Repository Management", "size": 1},
-      {"name": "Build Management", "size": 1},
-      {"name": "Code Quality", "size": 1},
-      {"name": "Deployment", "size": 1},
-      {"name": "Testing", "size": 1},
-      {"name": "Plugins/Gems", "size": 1}
+      {"name": "Integrations", "size": 2},
+      {"name": "Repository Management", "size": 2},
+      {"name": "Build Management", "size": 2},
+      {"name": "Code Quality", "size": 2},
+      {"name": "Deployment", "size": 2},
+      {"name": "Testing", "size": 2},
+      {"name": "Plugins/Gems", "size": 2}
      ]
     },
     {
      "name": "product",
      "children": [
-      {"name": "Product Design", "size": 1},
-      {"name": "Style Design", "size": 1}
+      {"name": "Product Design", "size": 3},
+      {"name": "Style Design", "size": 3}
      ]
     }
    ]
@@ -81,26 +81,26 @@
   {
     "name": "Misc",
     "children": [
-     {"name": "Payroll", "size": 1},
-     {"name": "Benefits", "size": 1},
-     {"name": "Taxes", "size": 1},
-     {"name": "Policies", "size": 1},
-     {"name": "Offices", "size": 1},
-     {"name": "Expensing and Reimbursement", "size": 1},
-     {"name": "Capital", "size": 1},
-     {"name": "Investors", "size": 1}
+     {"name": "Payroll", "size": 5},
+     {"name": "Benefits", "size": 5},
+     {"name": "Taxes", "size": 5},
+     {"name": "Policies", "size": 5},
+     {"name": "Offices", "size": 5},
+     {"name": "Expensing and Reimbursement", "size": 5},
+     {"name": "Capital", "size": 5},
+     {"name": "Investors", "size": 5}
     ]
   },
   {
     "name": "Support",
     "children": [
-     {"name": "Issue Tracking", "size": 1},
-     {"name": "Client Administration", "size": 1},
-     {"name": "Customer Education", "size": 1},
-     {"name": "Customer Communication", "size": 1},
-     {"name": "Inbound Support Channels", "size": 1},
-     {"name": "Account Management", "size": 1},
-     {"name": "New Client Standups", "size": 1}
+     {"name": "Issue Tracking", "size": 5},
+     {"name": "Client Administration", "size": 5},
+     {"name": "Customer Education", "size": 5},
+     {"name": "Customer Communication", "size": 5},
+     {"name": "Inbound Support Channels", "size": 5},
+     {"name": "Account Management", "size": 5},
+     {"name": "New Client Standups", "size": 5}
     ]
   }
  ]
