@@ -32,7 +32,26 @@
     {
      "name": "engineering",
      "children": [
-      {"name": "Back-End Code", "size": 1},
+      {
+        "name": "Back-End Code",
+        "children": [
+         {
+           "name": "Ruby on Rails",
+           "children": [
+            {"name": "Config", "size": 1},
+            {"name": "Routes", "size": 1},
+            {"name": "Controllers", "size": 1},
+            {"name": "Models", "size": 1},
+            {"name": "Views", "size": 1}
+           ]
+         },
+         {"name": "Linux", "size": 1},
+         {"name": "Network", "size": 1},
+         {"name": "Servers", "size": 1},
+         {"name": "Database", "size": 1},
+         {"name": "Cloud Services", "size": 1}
+        ]
+      },
       {"name": "Front-End Code", "size": 1},
       {"name": "Integrations", "size": 1},
       {"name": "Repository Management", "size": 1},
