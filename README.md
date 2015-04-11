@@ -9,3 +9,8 @@ Visualize the "canvas" of roles and activities in a startup software company. Th
 ### Notes
 
 Needs to be run from a server (local or online) to avoid cross-origin policy issues.
+
+### Credit
+
+Design taken from this D3 example page:
+http://bl.ocks.org/mbostock/4063582#flare.json
